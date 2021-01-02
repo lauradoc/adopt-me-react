@@ -25,7 +25,7 @@ const App = () => {
   return (
     <div>
       <h1 id="something-important">Adopt Me!</h1>
-      <Pet name="Gotto" animal="dog" breed="German Shepherd" />
+      <Pet name="Grotto" animal="dog" breed="German Shepherd" />
       <Pet name="Speedy" animal="frog" breed="water frog" />
       <Pet name="Rocky" animal="dog" breed="Havanese" />
     </div>
